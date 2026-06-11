@@ -6,7 +6,7 @@ print(digi_dataset.keys())
 
 #Dataset beobachten
 #print(digi_dataset['data'])
-#print(digi_dataset.shape)
+#print(digi_dataset.data.shape)
 #print(digi_dataset['feature_names'])
 #print(digi_dataset['images'][0])
 #plt.imshow(digi_dataset['images'][0], cmap=plt.cm.gray_r, interpolation='nearest')
